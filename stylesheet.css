@@ -1,0 +1,76 @@
+table .system td{
+	width: 35px;
+	height: 35px;
+	text-align: center;
+	font-weight: bold;
+	
+}
+.alkali{
+	background-color: #c4c4c4;
+}
+.alkali_r{
+	background-color: #c4c4c4;
+	color: #dc143c;
+}
+.alkali_earth{
+	background-color: #228b22;
+}
+.transitional{
+	background-color: #efe950;
+}
+.transitional_w{
+	background-color: #efe950;
+	color: #ffffff;
+}
+.transitional_b{
+	background-color: #efe950;
+	color: #7b68ee;
+}
+.nonmetal{
+	background-color: #00dadd;
+}
+.nonmetal_r{
+	background-color: #00dadd;
+	color: #dc143c;
+}
+.nonmetal_b{
+	background-color: #00dadd;
+	color: #7b68ee;
+}
+.other_metal{
+	background-color: #f96757;
+}
+.noble_gases{
+	background-color: #db9e0d;
+}
+.noble_gases_r{
+	background-color: #db9e0d;
+	color: #dc143c;
+}
+
+.atomicNumber{
+	display: inline-block;
+	font-size: small;
+	height: 0px;
+	margin-top: 0px;
+}
+.atomicWeight{
+	display: inline-block;
+	float: right;
+	font-size: small;
+	margin-top: 0px;
+	height: 0px;
+}
+.symbol{
+	text-align: center;
+	font-size: x-large;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 3px;
+	height: 5px;
+}
+.elementName{
+	margin-bottom: 0px;
+	font-size:: small;
+	text-align: center;
+}
